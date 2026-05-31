@@ -20,9 +20,9 @@ Replace this block with:
 
 **Suggested layout for your screenshot section:**
 
-|                   Sign In                    |                   Sign Up                    |                   Forgot Password                   |
-| :------------------------------------------: | :------------------------------------------: | :-------------------------------------------------: |
-| ![sign-in](./assets/screenshots/sign-in.png) | ![sign-up](./assets/screenshots/sign-up.png) | ![forgot](./assets/screenshots/forgot-password.png) |
+|                                                     Sign In                                                     |                                                     Sign Up                                                     |                                                Forgot Password                                                 |
+| :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| ![sign-in](https://res.cloudinary.com/db7qmdfr2/image/upload/v1780206430/Screenshot_20260531_110652_y1ozih.png) | ![sign-up](https://res.cloudinary.com/db7qmdfr2/image/upload/v1780206429/Screenshot_20260531_110733_uiquoz.png) | ![forgot](https://res.cloudinary.com/db7qmdfr2/image/upload/v1780206419/Screenshot_20260531_110745_b6er4c.png) |
 
 > **How to capture screenshots:**
 >
